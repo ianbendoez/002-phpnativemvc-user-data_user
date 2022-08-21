@@ -2,7 +2,9 @@
 Source Code PHP Native MVC (CRUD) - User / Data User
 
 Cara penggunaan:
+
 $id_menus = 1;
+
 Copy 4 file ini (index.php, view.php, controller.php, model.php) kemudian paste ke folder: pages/menus/1/
 
 002 PHP Native MVC - Data User
